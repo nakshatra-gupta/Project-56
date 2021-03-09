@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-selection {
+    display: flex;
+    justify-content: center;
+}
+
+.selection-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
